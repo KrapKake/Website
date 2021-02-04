@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');\n\n.current {\n    padding: 30px;\n    color: green;\n    font-size: 35px;\n    text-decoration: none;\n    color: #bdbb26;\n    font-family: 'M PLUS Rounded 1c', sans-serif;\n}\n.general {\n    padding: 30px;\n    font-size: 35px;\n    text-decoration: none;\n    color: #cc241d;\n    font-family: 'M PLUS Rounded 1c', sans-serif;\n}\n.title {\n    font-family: 'M PLUS Rounded 1c', sans-serif;\n    font-size: 45px;\n    text-align: center;\n}\n.title1 {\n    font-family: 'M PLUS Rounded 1c', sans-serif;\n    font-size: 45px;\n    text-align: center;\n    text-decoration: underline;\n}\n.content {\n    font-family: 'M PLUS Rounded 1c', sans-serif;\n    font-size: 20px;\n    color: #83a59d;\n}\nbody {\n    background-color: #282828;\n}\na {\n    color: #458588;\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,OAAO,CAAC,8EAAI;AAEZ,AAAA,QAAQ,CAAC,EACL,OAAO,EAAE,IAAI,EACb,KAAK,EAAE,KAAK,EACZ,SAAS,EAAE,IAAI,EACf,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,EACd,WAAW,EAAE,+BAA+B,GAC/C;;AACD,AAAA,QAAQ,CAAC,EACL,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,IAAI,EACf,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,EACd,WAAW,EAAE,+BAA+B,GAC/C;;AACD,AAAA,MAAM,CAAC,EACH,WAAW,EAAE,+BAA+B,EAC5C,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,MAAM,GACrB;;AACD,AAAA,OAAO,CAAC,EACJ,WAAW,EAAE,+BAA+B,EAC5C,SAAS,EAAE,IAAI,EACf,UAAU,EAAE,MAAM,EAClB,eAAe,EAAE,SAAS,GAC7B;;AACD,AAAA,QAAQ,CAAC,EACL,WAAW,EAAE,+BAA+B,EAC5C,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,OAAO,GACjB;;AACD,AAAA,IAAI,CAAC,EACD,gBAAgB,EAAE,OAAO,GAC5B;;AACD,AAAA,CAAC,CAAC,EACE,KAAK,EAAE,OAAO,GACjB"
+}
