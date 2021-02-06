@@ -15,11 +15,6 @@
     color: #cc241d;
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
-.title {
-    font-family: 'M PLUS Rounded 1c', sans-serif;
-    font-size: 45px;
-    text-align: center;
-}
 .title1 {
     font-family: 'M PLUS Rounded 1c', sans-serif;
     font-size: 45px;
@@ -37,4 +32,13 @@ body {
 a {
     color: #458588;
     transition: 0.1s;
+}
+#kqzx {
+    text-decoration: none;
+    color: #bdbb26;
+    font-size: 45px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.center-align {
+    text-align: center;
 }
