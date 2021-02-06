@@ -11,6 +11,6 @@
 
 body { background-color: #282828; }
 
-a { color: #458588; }
+a { color: #458588; transition: 0.1s; }
 
 /*# sourceMappingURL=styles.css.map */
