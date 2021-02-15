@@ -11,8 +11,8 @@ body { background-color: #282828; }
 
 a { color: #458588; transition: 0.1s; }
 
-#kqzx { text-decoration: none; color: #bdbb26; font-size: 45px; font-family: 'M PLUS Rounded 1c', sans-serif; }
+#kqzx { text-decoration: none; color: #bdbb26; font-size: 45px; font-family: 'M PLUS Rounded 1c', sans-serif; float: left; padding-left: 10px; }
 
-.center-align { text-align: center; }
+.header { float: right; padding-top: 5px; }
 
 /*# sourceMappingURL=styles.css.map */
