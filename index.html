@@ -17,6 +17,15 @@ title: Home
       platforms in the 'Contact Me' section below.
       <br>
       <h4>RSS Feed for this website <a href="/feed.xml">here</a>.</h4>
+      <hr color="#3c3836" style="width: 100%;">
+      <div id="latestblog">
+        <div style="color: #98971a;" class="title1">Latest blog post - </div>
+        <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
+        <h3 style="color: #a89984;">{{ site.posts.first.pbdate }}</h3>
+        {{ site.posts.first.excerpt }}
+        <h3><a href="{{ site.posts.first.url }}" style="text-decoration: none;">...</a></h3>
+      </div>
+      <hr color="#3c3836" style="width: 100%;">
       <p>
       <h1 style="color: #98971a;">Links</h1>
         <ul>
