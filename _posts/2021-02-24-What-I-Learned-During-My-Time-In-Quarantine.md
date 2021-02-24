@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Learned from the Quarantine
+title: What I Learned during my time in Quarantine
 pbdate: 21/2/21
 ---
 Quarantine has been a tough time for almost every person on this planet. A lot of us have been through some of the most intense personal experiences of our life during this period. The impossibility of interaction with other human beings led to a lot of people developing social anxiety. I was chatting with one of my friends the other day, and she said that she found replying to her teachers very intimidating. I knew her to be really confident, so this came as a real shock to me. The existential dread associated with the pandemic is also a major factor to consider when talking about the mental health of the quarantined human. Before the quarantine, the idea of being scared for your life when visiting a supermarket would be worthy of being in a comedian's sketch, but now, the joke isn't as funny as it would have been a year ago.
