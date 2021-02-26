@@ -16,4 +16,4 @@ I was not in a very good place (mentally) in 2020. Delayed submissions and poor 
 # <ins>Diversification is never bad</ins>
 Getting away from the heavier topics, let's talk about how expanding your tastes makes you a happier person. 2 years ago, I only used to listen to metal. I was one of those insufferable elitists who talked trash about most pop and rap music without really listening to much of it. Since I had a lot of time on my hands during the quarantine, I thought, "What the hell. Why not?", and started listening to different genres of music. Looking back at this decision now, I can only wonder how many beautiful pieces of music I would not have had the chance to listen to had I not tried to diversify my tastes. The same goes for books, movies and virtually anything else. You may not like something after listening to it, and that's okay; at least you know you tried.
 
-[Here is some Indian metal music](https://www.youtube.com/watch?v=oYK6JU7Nx38) because I didn't know how to end this blog post :p
+[Here is some Indian metal music](https://www.youtube.com/watch?v=oYK6JU7Nx38) because I don't know how to end this blog post :p
