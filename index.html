@@ -10,34 +10,37 @@ platforms on the <a href="/about.html">'About' page</a>.
 <br><br>
 <hr>
 <h1>Latest blog post - </h1>
-<div id="latestblog">
+<div class="window">
     <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-    <h3 style="color: #8fbcbb;">{{ site.posts.first.pbdate }}</h3>
+    <h3 class="date">{{ site.posts.first.pbdate }}</h3>
     {{ site.posts.first.excerpt }}
-    <h3><a href="{{ site.posts.first.url }}" style="text-decoration: none;">...</a></h3>
+    <h3><a href="{{ site.posts.first.url }}" class="dots">...</a></h3>
 </div>
 <br>
 <hr>
 <h1>Stuff I use</h1>
-<ul>
-    <li><h3>Browsers -</h3></li>
-    <ol>
-        <li>WWW -</li>
-        <ul>
-        <li><a href="https://librewolf-community.gitlab.io/">Librewolf</a></li>
-        <li><a href="https://qutebrowser.org/">Qutebrowser</a></li>
-        <li><a href="https://lynx.browser.org/">Lynx</a></li>
-        </ul>
-        <li>Alternative protocols -</li>
-        <ul>
-        <li>Gemini - <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a></li>
-        <li>Gopher - <a href="https://librewolf-community.gitlab.io/">Librewolf</a> (with the <a href="https://addons.mozilla.org/en-US/firefox/addon/overbitewx/">OverbiteWX extension</a>)</li>
-        </ul>
-    </ol>
-    <li><h3>Text editors -</h3></li>
+<div class="window">
     <ul>
-        <li><a href="https://neovim.io/">Neovim</a></li>
-        <li><a href="https://github.com/hlissner/doom-emacs">DOOM Emacs</a></li>
-        <li><a href="https://vscodium.com/">Vscodium</a></li>
+        <li><h3>Browsers -</h3></li>
+        <ol>
+            <li>WWW -</li>
+            <ul>
+            <li><a href="https://librewolf-community.gitlab.io/">Librewolf</a></li>
+            <li><a href="https://qutebrowser.org/">Qutebrowser</a></li>
+            <li><a href="https://lynx.browser.org/">Lynx</a></li>
+            </ul>
+            <li>Alternative protocols -</li>
+            <ul>
+            <li>Gemini - <a href="https://gmi.skyjake.fi/lagrange/">Lagrange</a></li>
+            <li>Gopher - <a href="https://librewolf-community.gitlab.io/">Librewolf</a> (with the <a href="https://addons.mozilla.org/en-US/firefox/addon/overbitewx/">OverbiteWX extension</a>)</li>
+            </ul>
+        </ol>
+        <li><h3>Text editors -</h3></li>
+        <ul>
+            <li><a href="https://neovim.io/">Neovim</a></li>
+            <li><a href="https://github.com/hlissner/doom-emacs">DOOM Emacs</a></li>
+            <li><a href="https://vscodium.com/">Vscodium</a></li>
+        </ul>
     </ul>
-</ul>
+</div>
+<br>

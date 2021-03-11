@@ -26,10 +26,16 @@
     margin-left: 10%;
     margin-right: 10%;
 }
-#latestblog {
+.window {
     background-color: #181e2e;
     border-radius: 20px;
     padding: 5px;
+}
+.dots {
+    text-decoration: none;
+}
+.date {
+    color: #8fbcbb;
 }
 body {
     background-color: #111724;
