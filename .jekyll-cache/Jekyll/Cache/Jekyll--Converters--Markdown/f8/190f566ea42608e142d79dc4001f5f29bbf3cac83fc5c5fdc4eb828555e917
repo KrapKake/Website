@@ -1,34 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Dealgorithmizing my life - 3</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <div class="fixed-bg"></div>
-      <div class="header"><nav>
-    <br>
-    
-    <a href="/" class="general">
-      Home
-    </a>
-    
-    <a href="/blog.html" class="general">
-      Blog
-    </a>
-    
-    <a href="/about.html" class="general">
-      About
-    </a>
-    
-</nav></div>
-      <hr>
-      <div class="content">
-<h1>Dealgorithmizing my life - 3</h1>
-<p>15 Feb 2021</p>
-<p>This is going to be my last blog post on this topic. I’ve been dealgorithmizing for more than a week now, and as with anything, there were highs and lows in the process. The idea of dealgorithmization has matured a little more in head over this period of time. I realized that I had no real reason to hate every single algorithm (since that would just be stupid); it was the unproductive algorithms I had a problem with. Part of what makes this problem hard is the definition of “productivity”. It means something different for everyone, and calling something “unproductive” is entirely subjective. Most people have the same notion about YouTube’s algorithms, which is that they are unproductive and more often than not, lead to long sessions of binge-watching your favorite YouTube series or your favorite creator’s content on the platform. But for a YouTuber/streamer, this wouldn’t really be unproductive as it could as a teaching tool for them to improve/diversify their content, or for commentary channels, as the fuel to keep the channel going.</p>
+I"�<p>This is going to be my last blog post on this topic. I’ve been dealgorithmizing for more than a week now, and as with anything, there were highs and lows in the process. The idea of dealgorithmization has matured a little more in head over this period of time. I realized that I had no real reason to hate every single algorithm (since that would just be stupid); it was the unproductive algorithms I had a problem with. Part of what makes this problem hard is the definition of “productivity”. It means something different for everyone, and calling something “unproductive” is entirely subjective. Most people have the same notion about YouTube’s algorithms, which is that they are unproductive and more often than not, lead to long sessions of binge-watching your favorite YouTube series or your favorite creator’s content on the platform. But for a YouTuber/streamer, this wouldn’t really be unproductive as it could as a teaching tool for them to improve/diversify their content, or for commentary channels, as the fuel to keep the channel going.</p>
 
 <p>I also came to the conclusion that the cause of the algorithms being “unproductive” may not really be a problem with the algorithm itself. The recommender systems for platforms like YouTube and Spotify will (obviously) move towards what you <em>want</em> to watch. That would be perfectly fine if the majority of the content on these platforms are what <em>you</em> would consider “productive”. However, for those of us who don’t, the functioning of these algorithms and the sheer number and diversity of the content on these platforms would mainly just lead to unproductive videos being recommended to us. I say “mainly” because sometimes YouTube does recommend interesting and educational videos like <a href="https://www.youtube.com/watch?v=dxRB4sdbIcw">this one</a>. The reason why most people’s recommended sections are considered unproductive is simply because what we want to watch is not necessarily what we need to watch in order to be productive, especially since the majority of us use YouTube recreationally.</p>
 
@@ -54,8 +24,4 @@
 <p>I found that I am a slave to short-term happiness, often causing a decline in my ability to achieve that long-term happiness found most commonly through work. This is why I chose to dealgorithmize.</p>
 
 <p>I hope this series of blog posts helped you in some way, and I wish you good luck in whatever you choose to do.</p>
-
-</div>
-    </div>
-  </body>
-</html>
+:ET

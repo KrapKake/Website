@@ -1,22 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap");
-.current { padding-left: 1rem; padding-right: 1rem; color: green; font-size: 2.2rem; text-decoration: none; color: #bdbb26; font-family: 'M PLUS Rounded 1c', sans-serif; }
+.current { margin: 1rem; font-size: 2rem; color: #88c0d0; text-decoration: none; }
 
-.general { padding-left: 1rem; padding-right: 1rem; font-size: 2.2rem; text-decoration: none; color: #cc241d; font-family: 'M PLUS Rounded 1c', sans-serif; }
+.general { margin: 1rem; font-size: 1.5rem; color: #5e81ac; text-decoration: none; }
 
-.content { font-family: 'M PLUS Rounded 1c', sans-serif; font-size: 1.3rem; color: #83a59d; }
+.fixed-bg { background-image: url("/assets/images/background.jpg"); min-height: 350px; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; border-top-left-radius: 20px; border-top-right-radius: 20px; }
 
-body { background-color: #282828; }
+.wrapper { margin-left: 10%; margin-right: 10%; }
 
-a { color: #458588; transition: 0.1s; }
+#latestblog { background-color: #181e2e; border-radius: 20px; padding: 5px; }
 
-#kqzx { text-decoration: none; color: #bdbb26; font-family: 'M PLUS Rounded 1c', sans-serif; float: left; font-size: 3rem; padding-left: 0.5rem; }
+body { background-color: #111724; font-family: 'M PLUS Rounded 1c', sans-serif; color: #8fbcbb; }
 
-.header { float: right; padding-top: 0.5rem; }
+h1 { color: #b48ead; }
 
-.title { padding-bottom: 5rem; padding-top: 0.5rem; }
+a { color: #5e81ac; }
 
-#latestblog { background-color: #32302f; padding-left: 1rem; padding-right: 1rem; padding-bottom: 0.1rem; padding-top: 0.3rem; border-radius: 20px; }
-
-.title1 { font-size: 2.5rem; font-weight: bold; margin-bottom: 1rem; }
+hr { color: #4c566a; }
 
 /*# sourceMappingURL=styles.css.map */

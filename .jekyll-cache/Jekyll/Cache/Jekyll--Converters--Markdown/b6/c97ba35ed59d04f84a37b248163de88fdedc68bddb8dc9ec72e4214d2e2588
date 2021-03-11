@@ -1,34 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Dealgorithmizing my life - 1</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <div class="fixed-bg"></div>
-      <div class="header"><nav>
-    <br>
-    
-    <a href="/" class="general">
-      Home
-    </a>
-    
-    <a href="/blog.html" class="general">
-      Blog
-    </a>
-    
-    <a href="/about.html" class="general">
-      About
-    </a>
-    
-</nav></div>
-      <hr>
-      <div class="content">
-<h1>Dealgorithmizing my life - 1</h1>
-<p>07 Feb 2021</p>
-<p>As I listen to a mathematician analyze a Minecraft YouTuber’s speedrun, I think to myself, “Is this the most productive I can be?” And as I begin to reflect upon this question, I try to recollect how I got to this point. The last thing I remembered was being separated from my parents and put into a small cramped room. The people who put me there told me that all I had to do was to look at a screen, and so I did. But I never recalled time passing by so fast; had it really been 20 years?</p>
+I"�<p>As I listen to a mathematician analyze a Minecraft YouTuber’s speedrun, I think to myself, “Is this the most productive I can be?” And as I begin to reflect upon this question, I try to recollect how I got to this point. The last thing I remembered was being separated from my parents and put into a small cramped room. The people who put me there told me that all I had to do was to look at a screen, and so I did. But I never recalled time passing by so fast; had it really been 20 years?</p>
 
 <h1 id="dealing-with-youtube">Dealing with YouTube</h1>
 <p>YouTube probably has the most infamous algorithm out there. Recommendations of COOM material is not unheard of during the sacred time that is No Nut November. On a more serious note, YouTube is the one of the biggest hurdles on the track to a productive life (at least for me). A HUGE part of my day is wasted just looking for a video to watch. I used to get up in the morning to exercise and meditate, but now, after getting up in the morning, I just browse through YouTube trying to find something to entertain me. Suffice it to say, YouTube’s recommendation system is really effective at getting people to waste their time.</p>
@@ -39,8 +9,4 @@
 <p>I’m going to limit myself to 5 YouTube videos everyday (at least for now). The first 5 videos in my YouTube feed are going to be youtube-dl’ed. Good news is that most of the stuff I watch is pretty informative anyways, so I’m not too worried about downloading anything too unproductive. Music and podcasts will all be listened to on Spotify now. After I download the 5 videos, I’m going to block YouTube on my /etc/hosts file, so that there’s absolutely no chance of me being distracted throughout the day.</p>
 
 <p>I can already tell this is going to be hard.</p>
-
-</div>
-    </div>
-  </body>
-</html>
+:ET

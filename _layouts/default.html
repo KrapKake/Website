@@ -4,15 +4,13 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-    {% feed_meta %}
-    {% seo %}
   </head>
   <body>
-    <div class="title">
-      <a href="/" id="kqzx">KQZX</a>
+    <div class="wrapper">
+      <div class="fixed-bg"></div>
       <div class="header">{% include header.html %}</div>
+      <hr>
+      {{ content }}
     </div>
-    <hr color="#3c3836" style="width: 100%;">
-    {{ content }}
   </body>
 </html>

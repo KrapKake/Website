@@ -1,34 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Dealgorithmizing my life - 2</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <div class="fixed-bg"></div>
-      <div class="header"><nav>
-    <br>
-    
-    <a href="/" class="general">
-      Home
-    </a>
-    
-    <a href="/blog.html" class="general">
-      Blog
-    </a>
-    
-    <a href="/about.html" class="general">
-      About
-    </a>
-    
-</nav></div>
-      <hr>
-      <div class="content">
-<h1>Dealgorithmizing my life - 2</h1>
-<p>10 Feb 2021</p>
-<p>As society comes ever closer to a dystopia, one must ask oneself the important questions, the questions that determine the priority of certain things in one’s life. These are the questions whose answers are the saving grace for some and the blow of death for the others. These are the questions whose answers decide what shall be left behind in the dirt, and what shall rise like a phoenix from the flame, enduring all that was thrown at it in the process of the world being mangled by the iron jaws of tyranny. “Philosophizing vs. Engineering”, “Idealism vs. Pragmatism”, “Minecraft vs. Fortnite”; questions like these determine the direction humanity will head in, and whether it will liberate itself from those iron jaws. When it comes to “YouTube vs. Newpipe”, I have chosen my side. Though the dystopia is inevitable, one can seek to delay it, which is why I side with Newpipe. It is the new coming of the light and shall push back against the evil that is YouTube for a long time to come, so long as we support it and are there to help it walk the path of light, to pull it back when it strays off the beaten path. Come, my friend, join us.</p>
+I"�<p>As society comes ever closer to a dystopia, one must ask oneself the important questions, the questions that determine the priority of certain things in one’s life. These are the questions whose answers are the saving grace for some and the blow of death for the others. These are the questions whose answers decide what shall be left behind in the dirt, and what shall rise like a phoenix from the flame, enduring all that was thrown at it in the process of the world being mangled by the iron jaws of tyranny. “Philosophizing vs. Engineering”, “Idealism vs. Pragmatism”, “Minecraft vs. Fortnite”; questions like these determine the direction humanity will head in, and whether it will liberate itself from those iron jaws. When it comes to “YouTube vs. Newpipe”, I have chosen my side. Though the dystopia is inevitable, one can seek to delay it, which is why I side with Newpipe. It is the new coming of the light and shall push back against the evil that is YouTube for a long time to come, so long as we support it and are there to help it walk the path of light, to pull it back when it strays off the beaten path. Come, my friend, join us.</p>
 
 <p>Newpipe is an amazing solution to YouTube’s recommendation system and its privacy issues. It does not recommend stuff to you (even if it does, please don’t tell me) and works by scraping the videos off of YouTube, so no Google libraries are needed! I’ve been using <a href="https://newpipe.net/">Newpipe</a> thanks to <a href="https://joelchrono12.netlify.app/newpipe-over-vanced/">this blog post</a> by <a href="https://fosstodon.org/web/accounts/210111">@joeligj12@fosstodon.org</a>. It’s amazing and is literally everything I needed (although I’m still going to limit myself to 5 videos per day).</p>
 
@@ -54,8 +24,4 @@
 
 <h3 id="goodbye-spotify-im-going-spotifree-now">Goodbye Spotify, I’m going Spotifree now.</h3>
 <p>(worst joke ever told)</p>
-
-</div>
-    </div>
-  </body>
-</html>
+:ET
