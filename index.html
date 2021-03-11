@@ -2,32 +2,24 @@
 layout: default
 title: Home
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>Hi. Welcome to my Website.</h1>
-    I'm usually called 'The Transcendent Flesh', but you can call me Bob.<br>
-    I'm into software (especially Free and Open Source Software). I also enjoy music and philosophy, so if 
-    you want talk about this stuff (or if you just want to talk in general) feel free to contact me at any of the 
-    platforms on the <a href="/about.html">'About' page</a>.
-    <br><br>
-    <hr>
-    <h1>Latest blog post - </h1>
-    <div id="latestblog">
-        <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-        <h3 style="color: #8fbcbb;">{{ site.posts.first.pbdate }}</h3>
-        {{ site.posts.first.excerpt }}
-        <h3><a href="{{ site.posts.first.url }}" style="text-decoration: none;">...</a></h3>
-    </div>
-    <br>
-    <hr>
-    <h1>Stuff I use</h1>
-    <ul>
+<h1>Hi. Welcome to my Website.</h1>
+I'm usually called 'The Transcendent Flesh', but you can call me Bob.<br>
+I'm into software (especially Free and Open Source Software). I also enjoy music and philosophy, so if 
+you want talk about this stuff (or if you just want to talk in general) feel free to contact me at any of the 
+platforms on the <a href="/about.html">'About' page</a>.
+<br><br>
+<hr>
+<h1>Latest blog post - </h1>
+<div id="latestblog">
+    <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
+    <h3 style="color: #8fbcbb;">{{ site.posts.first.pbdate }}</h3>
+    {{ site.posts.first.excerpt }}
+    <h3><a href="{{ site.posts.first.url }}" style="text-decoration: none;">...</a></h3>
+</div>
+<br>
+<hr>
+<h1>Stuff I use</h1>
+<ul>
     <li><h3>Browsers -</h3></li>
     <ol>
         <li>WWW -</li>
@@ -48,6 +40,4 @@ title: Home
         <li><a href="https://github.com/hlissner/doom-emacs">DOOM Emacs</a></li>
         <li><a href="https://vscodium.com/">Vscodium</a></li>
     </ul>
-    </ul>
-</body>
-</html>
+</ul>
